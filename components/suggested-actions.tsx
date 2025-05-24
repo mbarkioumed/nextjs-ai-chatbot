@@ -19,24 +19,24 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: 'Quelle filière choisir',
+      label: 'après le bac ?',
+      action: 'Quelle filière choisir après le bac ?'
     },
     {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
+      title: 'Quelles sont les écoles',
+      label: `accessibles avec mon bac ?`,
+      action: `Quelles sont les écoles accessibles avec mon bac ?`,
     },
     {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
+      title: 'Quelle est la différence',
+      label: `entre la fac et une école d'ingénieurs ?`,
+      action: `Quelle est la différence entre la fac et une école dingénieurs ?`,
     },
     {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
+      title: 'Quels métiers puis-je faire',
+      label: 'avec cette filière ?',
+      action: 'Quels métiers puis-je faire avec cette filière ?',
     },
   ];
 
