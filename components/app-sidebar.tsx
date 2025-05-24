@@ -34,9 +34,9 @@ export function AppSidebar({ user }: { user: User | undefined }) {
               }}
               className="flex flex-row gap-3 items-center"
             >
-              <span className="text-lg font-semibold px-2 hover:bg-muted rounded-md cursor-pointer">
-                Chatbot
-              </span>
+              <span className="text-xl font-semibold px-4 py-2 hover:bg-muted rounded-md cursor-pointer">
+               TAWJIH <span className="text-orange-500 font-bold font-mono">AI</span>
+               </span>
             </Link>
             <Tooltip>
               <TooltipTrigger asChild>
